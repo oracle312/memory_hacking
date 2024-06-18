@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MyHackTool\MyHackTool\offset.h(37,9): warning C4244: 'return': 'uintptr_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MyHackTool\MyHackTool\main.cpp(44,48): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MyHackTool\MyHackTool\main.cpp(45,49): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MyHackTool\MyHackTool\main.cpp(48,47): warning C4312: '형식 캐스트': 'int'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MyHackTool\MyHackTool\main.cpp(49,48): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MyHackTool\MyHackTool\main.cpp(54,62): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MyHackTool\MyHackTool\main.cpp(60,48): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MyHackTool\MyHackTool\main.cpp(61,49): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MyHackTool\MyHackTool\main.cpp(64,47): warning C4312: '형식 캐스트': 'int'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MyHackTool\MyHackTool\main.cpp(65,48): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MyHackTool\MyHackTool\main.cpp(70,62): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+  MyHackTool.vcxproj -> C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MyHackTool\x64\Debug\MyHackTool.exe
